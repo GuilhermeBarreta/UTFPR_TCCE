@@ -1,9 +1,9 @@
-,Nome do arquivo,Número de sequências,Soma das arestas,Tempo de execução(seg)
-0,sequences_argentina.fasta,34,20082.0,13.719674348831177
-1,sequences_brazil.fasta,132,22571.0,129.95591259002686
-2,sequences_chile.fasta,378,27627.0,869.0753118991852
-3,sequences_colombia.fasta,2,64.0,0.02326512336730957
-4,sequences_equador.fasta,4,53.0,0.18023991584777832
-5,sequences_peru.fasta,142,25724.0,131.010675907135
-6,sequences_uruguai.fasta,32,30905.0,5.429065942764282
-7,sequences_venezuela.fasta,24,19517.0,6.01581335067749
+Nome do arquivo,Número de sequências,Soma das arestas,Tempo de execução(seg)
+sequences_argentina.fasta,34,20082.0,13.719674348831177
+sequences_brazil.fasta,132,22571.0,129.95591259002686
+sequences_chile.fasta,378,27627.0,869.0753118991852
+sequences_colombia.fasta,2,64.0,0.02326512336730957
+sequences_equador.fasta,4,53.0,0.18023991584777832
+sequences_peru.fasta,142,25724.0,131.010675907135
+sequences_uruguai.fasta,32,30905.0,5.429065942764282
+sequences_venezuela.fasta,24,19517.0,6.01581335067749
